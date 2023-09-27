@@ -1,0 +1,28 @@
+[
+  {
+    "nome": "IuriCode - Desafios",
+    "descricao": "",
+    "banner": "introIuriCode.webp",
+    "repositorio": "https://github.com/HenriqueTorrico/desafios_iuricode",
+    "visualizacao": "/iuricode",
+    "status": "Em andamento",
+    "projetos": [
+      {
+        "nome": "01 - Blog",
+        "descricao": "",
+        "banner": "",
+        "repositorio": "https://github.com/HenriqueTorrico/desafios_iuricode/01-blog",
+        "visualizacao": "",
+        "status": "Em andamento"
+      }
+    ]
+  },
+  {
+    "nome": "IuriCode - Desafios",
+    "descricao": "",
+    "banner": "introIuriCode.webp",
+    "repositorio": "https://github.com/HenriqueTorrico/desafios_iuricode",
+    "visualizacao": "/iuricode",
+    "status": "Em andamento"
+  }
+]
